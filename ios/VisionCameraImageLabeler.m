@@ -5,8 +5,8 @@
 //  Created by Marc Rousavy on 06.05.21.
 //
 
-#import <VisionCamera/FrameProcessorPlugin.h>
-#import <VisionCamera/Frame.h>
+#import <Frame Processor/FrameProcessorPlugin.h>
+#import <Frame Processor/Frame.h>
 #import <MLKit.h>
 
 // Example for an Objective-C Frame Processor plugin
